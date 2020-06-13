@@ -1,0 +1,362 @@
+/* SKILLS MODE*/
+#skillsMode
+{
+	background: #fff;
+}
+
+#skillsMode h5
+{
+	color: #000351;
+}
+
+#skillsMode .heading h2
+{
+	color: #000351;
+	text-transform: uppercase;
+}
+
+#skillsMode .progress
+{
+	height: 100%;
+	margin: 30px 20px;
+	backface-visibility: #9E9E9E;
+}
+
+#skillsMode .progress-bar
+{
+	background: #FAC921;
+}
+
+/* PROJETS MODE */
+#projetsMode
+{
+	background: #FAC921;
+}
+
+.carousel-control.left, .carousel-control.right
+{
+	color: #fff;
+}
+
+.carousel-indicators li
+{
+	border-color: #fff;
+}
+
+.carousel-indicators li:active
+{
+	background-color: #9E9E9E; 
+}
+
+.timeline-panel-container-photo > .item > img {
+  margin: 0 auto;
+}
+
+/*ROBOT*/
+#robot
+{
+	background-color: #FAC921;
+	height: 25%;
+	width: 45%;
+	margin: 10px;
+}
+
+#robot .item h3
+{
+	color: #fff;
+}
+
+#robot .item h4
+{
+	color: #9E9E9E;
+}
+
+#robot .item img
+{
+	height: 275px;
+	width: auto;
+}
+
+/*mission-locale*/
+#mission-locale
+{
+	background-color: #FAC921;
+	height: 25%;
+	width: 45%;
+	margin: 10px;
+}
+
+#mission-locale .item h3
+{
+	color: #fff;
+}
+
+#mission-locale .item h4
+{
+	color: #9E9E9E;
+}
+
+#mission-locale .item img
+{
+	height: 275px;
+	width: auto;
+}
+
+/*ptut*/
+#ptut
+{
+	background-color: #FAC921;
+	height: 25%;
+	width: 45%;
+	margin: 10px;
+}
+
+#ptut .item h3
+{
+	color: #fff;
+}
+
+#ptut .item h4
+{
+	color: #9E9E9E;
+}
+
+#ptut .item img
+{
+	height: 275px;
+	width: auto;
+}
+
+/*lampe*/
+#lampe
+{
+	background-color: #FAC921;
+	height: 25%;
+	width: 45%;
+	margin: 10px;
+}
+
+#lampe .item h3
+{
+	color: #fff;
+}
+
+#lampe .item h4
+{
+	color: #9E9E9E;
+}
+
+#lampe .item img
+{
+	height: 275px;
+	width: auto;
+}
+
+/*lampe*/
+#lampe
+{
+	background-color: #FAC921;
+	height: 25%;
+	width: 45%;
+	margin: 10px;
+}
+
+#lampe .item h3
+{
+	color: #fff;
+}
+
+#lampe .item h4
+{
+	color: #9E9E9E;
+}
+
+#lampe .item img
+{
+	height: 275px;
+	width: auto;
+}
+
+/*voiture*/
+#voiture
+{
+	background-color: #FAC921;
+	height: 25%;
+	width: 45%;
+	margin: 10px;
+}
+
+#voiture .item h3
+{
+	color: #fff;
+}
+
+#voiture .item h4
+{
+	color: #9E9E9E;
+}
+
+#voiture .item img
+{
+	height: 275px;
+	width: auto;
+}
+
+/*ptut2*/
+#ptut2
+{
+	background-color: #FAC921;
+	height: 25%;
+	width: 45%;
+	margin: 10px;
+}
+
+#ptut2 .item h3
+{
+	color: #fff;
+}
+
+#ptut2 .item h4
+{
+	color: #9E9E9E;
+}
+
+#ptut2 .item img
+{
+	height: 275px;
+	width: auto;
+}
+
+/*chaise*/
+#chaise
+{
+	background-color: #FAC921;
+	height: 25%;
+	width: 45%;
+	margin: 10px;
+}
+
+#chaise .item h3
+{
+	color: #fff;
+}
+
+#chaise .item h4
+{
+	color: #9E9E9E;
+}
+
+#chaise .item img
+{
+	height: 275px;
+	width: auto;
+}
+
+/*prison*/
+#prison
+{
+	background-color: #FAC921;
+	height: 25%;
+	width: 45%;
+	margin: 10px;
+}
+
+#prison .item h3
+{
+	color: #fff;
+}
+
+#prison .item h4
+{
+	color: #9E9E9E;
+}
+
+#prison .item img
+{
+	height: 275px;
+	width: auto;
+}
+
+/*meubles*/
+#meubles
+{
+	background-color: #FAC921;
+	height: 25%;
+	width: 45%;
+	margin: 10px;
+}
+
+#meubles .item h3
+{
+	color: #fff;
+}
+
+#meubles .item h4
+{
+	color: #9E9E9E;
+}
+
+#meubles .item img
+{
+	height: 275px;
+	width: auto;
+}
+
+/*verriere*/
+#verriere
+{
+	background-color: #FAC921;
+	height: 25%;
+	width: 45%;
+	margin: 10px;
+}
+
+#verriere .item h3
+{
+	color: #fff;
+}
+
+#verriere .item h4
+{
+	color: #9E9E9E;
+}
+
+#verriere .item img
+{
+	height: 275px;
+	width: auto;
+}
+
+/*verriere-aqua*/
+#verriere-aqua
+{
+	background-color: #FAC921;
+	height: 25%;
+	width: 45%;
+	margin: 10px;
+}
+
+#verriere-aqua .item h3
+{
+	color: #fff;
+}
+
+#verriere-aqua .item h4
+{
+	color: #9E9E9E;
+}
+
+#verriere-aqua .item img
+{
+	height: 275px;
+	width: auto;
+}
+
+.item {
+  width: 100%;
+}
+
+.item img {
+  display:block;
+  margin: auto;
+}
